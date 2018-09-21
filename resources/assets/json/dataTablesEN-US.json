@@ -1,0 +1,17 @@
+{
+  "sEmptyTable": "No records found",
+  "sInfo": "Showing <strong>_START_</strong>-<strong>_END_</strong> from <strong>_TOTAL_</strong> records",
+  "sInfoEmpty": "Showing 0 to 0 from 0 records",
+  "sInfoFiltered": "(Filtered from _MAX_ records)",
+  "sInfoPostFix": "",
+  "sInfoThousands": ".",
+  "sLengthMenu": "_MENU_ results by page",
+  "sLoadingRecords": "Loading...",
+  "sProcessing": "Processing...",
+  "sZeroRecords": "No records found",
+  "sSearch": "Search",
+  "oAria": {
+    "sSortAscending": ": Sort columns in ascending order",
+    "sSortDescending": ": Sort columns in descendig order"
+  }
+}
